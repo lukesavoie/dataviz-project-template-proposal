@@ -1,0 +1,59 @@
+As we near the end of the course, please take a step back from the work you've done so far on your project and 
+do a critical evaluation of your own work, based on the following idea:
+
+At the beginning of the project, you identified some key "questions" or "tasks" that the visualization should facilitate
+For each of those initial questions or tasks, take a look at the work you've done so far and ask yourself "Does the visualization answer these questions or facilitate these tasks"?
+Initial questions:
+Group by country and see top foods.
+See how production of a country changes over time.
+Compare countries in the same continent and their top produced foods.
+Top producers of each continent in each food category.
+
+The stacked bar chart grouped by continent provided some great visuals as to the discrepencies the continents have. For example, Asias production in general, specifically with rice
+was quite significant.
+
+
+Also, take a critical look at the work in terms of aesthetics and usability. Does it look "good"? Is it usable? 
+
+
+If you were to download an image of it and show it to someone, is it clear what it represents? Consider if you may want to add things like titles or units to your axis labels
+
+
+Based on this evaluation and any feedback you receive from others, please re-prioritize the remaining work you have in order to address the issues you've identified. 
+It's totally OK to give up on something you had planned that may turn out to be too ambitious.
+
+
+
+Remember, the goal of this project is to create a professional portfolio piece that you can show off to others to impress them after the course is over. 
+In order to be impressive, the final deliverable needs to look good, be readable on its own, and answer/address at least one of the original questions/tasks you've set out to address.
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To be very honest, something I've struggled with this semester is finding enough time and energy to truly look into and 
+critically evaluate each and every student's project as it progresses. I want to ask for your help with this, so that the course can be an excellent and 
+rewarding experience for everyone.
+
+Please do the following:
+
+Scroll up in our course Discord and find two (2) projects from other students to give feedback on
+Please prioritize those that have not yet received any feedback
+Please take a look at their work. Try it out. Try to read and understand it
+Read through the project proposal document and see if the visualization answers/addresses the original questions/tasks set out as goals for the project
+If it does, praise and validation is good!
+If it does not, don't be afraid to say so.
+If you have any ideas for how to improve it, please provide suggestions on how the project could be improved
+
+I thoroughly enjoyed looking at ayush's project for EAfc24. The parallel coordinates graph is great if you're looking for a certain player in the game who meets certain statistics for
+any of the 6 attributes a player can have. The spider graph also helps for searching for certain players to look closer at how their statisics interact. I used to play the FIFA games 
+a few years a go, so having this for those games would have been very helpful! Also, I am a fan of soccer, so going through and looking at some of my favorite players in the league
+was great. I see this project as a very useful tool for someone playing the game. For insights, or for a continuation of the project it would have been cool to
+have a filter for the teams and compare players for the same team, or even separate it by position and compare the players for different teams that play the same position.
+
+Also looking at Vansh's project, regarding national parks in the US, it was interesting browsing around learning the key details in each. Also the toggle for showing visitor
+population was also helpful in gauging interest across the country. The functionality of the project is great in that it has the zoom and pan features as well! Looking into the project
+and the initial questions that were asked, this is a great representation of those insights.
+
+
